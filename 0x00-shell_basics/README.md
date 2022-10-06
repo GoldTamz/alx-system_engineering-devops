@@ -1,1 +1,1 @@
-The basics of shell
+The basics of shell navigation
